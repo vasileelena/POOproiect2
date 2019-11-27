@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1574851954 source:d:\teme\an ii\poo\teme\proiectpoo2\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+
